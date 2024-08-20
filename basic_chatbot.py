@@ -7,7 +7,7 @@ load_dotenv()
 
 client = OpenAI()
 
-st.title("My Own ChatGPT!🤖")
+st.title("My GPT-4o Mini Chatbot 🤖")
 
 if "messages" not in st.session_state:
     st.session_state.messages = []
@@ -27,13 +27,14 @@ if user_prompt := st.chat_input("Your prompt"):
     # generate responses
     with st.chat_message("assistant"):
         message_placeholder = st.empty()
-        response = client.chat.completions.create(
+        completion = client.chat.completions.create(
             model=st.session_state.model,
             messages=[
                 {"role": m["role"], "content": m["content"]}
                 for m in st.session_state.messages
             ],
         )
-        message_placeholder.markdown(response.choices[0].message.content)
+        response = completion.choices[0].message.content
+        message_placeholder.markdown(response)
 
     st.session_state.messages.append({"role": "assistant", "content": response})

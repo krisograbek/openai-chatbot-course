@@ -1,1 +1,1 @@
-## Lead Magnet
+## Simple OpenAI Chatbot + Intro to OpenAI API
