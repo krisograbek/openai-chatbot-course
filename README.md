@@ -7,8 +7,8 @@ This project includes a combination of text, videos, and code to guide you step-
 ## Table of Contents
 
 1. [Project Overview](#project-overview)
-2. [Prerequisites](#prerequisites)
-3. [File Descriptions](#file-descriptions)
+2. [File Descriptions](#file-descriptions)
+3. [Prerequisites](#prerequisites)
 4. [Installation](#installation)
 5. [Usage](#usage)
 6. [License](#license)
@@ -25,18 +25,18 @@ By the end of this project, you will:
 - Optimize responses using tokens and LLM parameters.
 
 ## File Descriptions
+Inside, you'll find 3 notebooks and 3 Python scripts with OpenAI API and Streamlit.
 
-- **[api-tutorial-new.ipynb](./api-tutorial-new.ipynb)**: A Jupyter notebook demonstrating how to interact with the OpenAI API, including making API requests and processing responses.
-
-- **[basic-st-app.py](./basic-st-app.py)**: The main Streamlit app file for running the GPT-4 powered chatbot with a simple and interactive user interface.
-
-- **[chatbot.py](./chatbot.py)**: Core chatbot logic, using the OpenAI API to generate responses and stream real-time output back to the user.
-
+### Notebooks
 - **[openai-api-tutorial.ipynb](./openai-api-tutorial.ipynb)**: A beginner-friendly notebook that guides users through interacting with the OpenAI API, including generating responses and streaming output.
-
-- **[simplest_chatbot.py](./simplest_chatbot.py)**: A minimal example of a chatbot implementation using the OpenAI API, without any additional UI or advanced features.
-
+- **[api-tutorial-new.ipynb](./api-tutorial-new.ipynb)**: A Jupyter notebook demonstrating how to interact with the OpenAI API, including making API requests and processing responses.
 - **[token-tutorial.ipynb](./token-tutorial.ipynb)**: A tutorial notebook explaining how tokens work in OpenAI models, including how to count tokens and use tokenizers.
+
+
+### Python Scripts
+- **[basic-st-app.py](./basic-st-app.py)**: The simplest Streamlit app file for running calling OpenAI API using Streamlits basic elements.
+- **[simplest_chatbot.py](./simplest_chatbot.py)**: A minimal example of a chatbot implementation using the OpenAI API and Streamlit. You'll do OpenAI API calls but the chatbot itself won't work as expected.
+- **[chatbot.py](./chatbot.py)**: Core chatbot logic, using the OpenAI API to generate responses and stream real-time output back to the user.
 
 
 ## Prerequisites
