@@ -89,13 +89,12 @@ To run the chatbot locally:
 
 1. **Run the Streamlit app:**
    ```bash
-   streamlit run basic-st-app.py
+   streamlit run chatbot.py
    ```
 
 2. **Start interacting with your chatbot through the browser!**
 
-Head to `localhost:8501`...
-You’ll be able to modify the chatbot's behavior through Streamlit and experiment with different GPT-4 models.
+Head to `localhost:8501` and you'll be able to use your own chatbot!
 
 ## License
 
