@@ -1,8 +1,13 @@
 # GPT-4 Powered Chatbot with OpenAI API and Streamlit
 
-This repository is designed to help you build your first chatbot using Python, OpenAI API, and Streamlit. 
+This repository serves as a practical companion to [this online course](https://krisograbek.gumroad.com/l/aichatbot) for building your first AI Chatbot.
 
-This project includes a combination of text, videos, and code to guide you step-by-step from understanding Large Language Models (LLMs) to building and running a working chatbot.
+I highly recommend checking the course because it is designed to help you build your first chatbot using Python, OpenAI API, and Streamlit. 
+It includes a combination of text, videos, and code to guide you step-by-step from understanding Large Language Models (LLMs) to building and running a working chatbot.
+
+**You can access the full course [here](https://krisograbek.gumroad.com/l/aichatbot)**.
+
+
 
 ## Table of Contents
 
