@@ -8,9 +8,10 @@ This project includes a combination of text, videos, and code to guide you step-
 
 1. [Project Overview](#project-overview)
 2. [Prerequisites](#prerequisites)
-3. [Installation](#installation)
-4. [Usage](#usage)
-5. [License](#license)
+3. [File Descriptions](#file-descriptions)
+4. [Installation](#installation)
+5. [Usage](#usage)
+6. [License](#license)
 
 ## Project Overview
 
