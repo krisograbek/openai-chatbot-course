@@ -23,6 +23,21 @@ By the end of this project, you will:
 - Build an interactive chatbot using Python and Streamlit.
 - Optimize responses using tokens and LLM parameters.
 
+## File Descriptions
+
+- **[api-tutorial-new.ipynb](./api-tutorial-new.ipynb)**: A Jupyter notebook demonstrating how to interact with the OpenAI API, including making API requests and processing responses.
+
+- **[basic-st-app.py](./basic-st-app.py)**: The main Streamlit app file for running the GPT-4 powered chatbot with a simple and interactive user interface.
+
+- **[chatbot.py](./chatbot.py)**: Core chatbot logic, using the OpenAI API to generate responses and stream real-time output back to the user.
+
+- **[openai-api-tutorial.ipynb](./openai-api-tutorial.ipynb)**: A beginner-friendly notebook that guides users through interacting with the OpenAI API, including generating responses and streaming output.
+
+- **[simplest_chatbot.py](./simplest_chatbot.py)**: A minimal example of a chatbot implementation using the OpenAI API, without any additional UI or advanced features.
+
+- **[token-tutorial.ipynb](./token-tutorial.ipynb)**: A tutorial notebook explaining how tokens work in OpenAI models, including how to count tokens and use tokenizers.
+
+
 ## Prerequisites
 
 Before you start, ensure you have the following installed on your machine:
