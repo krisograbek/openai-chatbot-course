@@ -7,9 +7,13 @@ It includes a combination of text, videos, and code to guide you step-by-step fr
 
 **You can access the full course [here](https://krisograbek.gumroad.com/l/aichatbot)**.
 
+### Here's what we're building:
+
+![GPT4oChatbotSmall](https://github.com/user-attachments/assets/db704f99-2163-48f4-a3da-3bbc28ce7542)
 
 
 ## Table of Contents
+
 
 1. [Project Overview](#project-overview)
 2. [File Descriptions](#file-descriptions)
