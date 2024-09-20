@@ -69,4 +69,10 @@ To run the chatbot locally:
 
 2. **Start interacting with your chatbot through the browser!**
 
+Head to `localhost:8501`...
 You’ll be able to modify the chatbot's behavior through Streamlit and experiment with different GPT-4 models.
+
+## License
+
+This project is licensed under the MIT License. See the [LICENSE.txt](LICENSE.txt) file for details.
+
