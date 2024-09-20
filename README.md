@@ -34,14 +34,14 @@ Inside, you'll find 3 notebooks and 3 Python scripts with OpenAI API and Streaml
 
 ### Notebooks
 - **[openai-api-tutorial.ipynb](./openai-api-tutorial.ipynb)**: A beginner-friendly notebook that guides users through interacting with the OpenAI API, including generating responses and streaming output.
-- **[api-tutorial-new.ipynb](./api-tutorial-new.ipynb)**: A Jupyter notebook demonstrating how to interact with the OpenAI API, including making API requests and processing responses.
-- **[token-tutorial.ipynb](./token-tutorial.ipynb)**: A tutorial notebook explaining how tokens work in OpenAI models, including how to count tokens and use tokenizers.
+- **[api-tutorial-new.ipynb](./api-tutorial-new.ipynb)** (_Part 3 in the course_): A Jupyter notebook demonstrating how to interact with the OpenAI API, including making API requests and processing responses.
+- **[token-tutorial.ipynb](./token-tutorial.ipynb)** (_Part 4 in the course_): A tutorial notebook explaining how tokens work in OpenAI models, including how to count tokens and use tokenizers.
 
 
 ### Python Scripts
-- **[basic-st-app.py](./basic-st-app.py)**: The simplest Streamlit app file for running calling OpenAI API using Streamlits basic elements.
-- **[simplest_chatbot.py](./simplest_chatbot.py)**: A minimal example of a chatbot implementation using the OpenAI API and Streamlit. You'll do OpenAI API calls but the chatbot itself won't work as expected.
-- **[chatbot.py](./chatbot.py)**: Core chatbot logic, using the OpenAI API to generate responses and stream real-time output back to the user.
+- **[basic-st-app.py](./basic-st-app.py)** (_Part 5 in the course_): The simplest Streamlit app file for running calling OpenAI API using Streamlits basic elements.
+- **[simplest_chatbot.py](./simplest_chatbot.py)** (_Part 5 in the course_): A minimal example of a chatbot implementation using the OpenAI API and Streamlit. You'll do OpenAI API calls but the chatbot itself won't work as expected.
+- **[chatbot.py](./chatbot.py)** (_Part 5 in the course_): Core chatbot logic, using the OpenAI API to generate responses and stream real-time output back to the user.
 
 
 ## Prerequisites
